@@ -10,4 +10,5 @@ Benefits:
 - Optimized transportation plans: Insights will help improve public transport efficiency by identifying peak arrival and departure times.
 Preparation for Paris Olympic Games: This project aids in developing effective crowd management strategies for large-scale events like the Olympics.
 
-A poster summarizing this project is available - please reach out if you'd like to see it.
+A poster summarizing this project and a short video simulating the passengers outflux from Stade de France are available - please reach out if you'd like to see it.
+
